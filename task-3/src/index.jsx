@@ -9,7 +9,7 @@ const rootElement = document.querySelector('#root');
 
 const element = (
  <>
- <div className='seconds'>Now is 58</div>
+ <div className='seconds'></div>
  </>
 );
 
